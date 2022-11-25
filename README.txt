@@ -1,4 +1,4 @@
-# Wi-Fi-
+# Wi-Fi password finder
 A Mini Project on Wifi Password finder in the Domain Ethical Hacking
 
 This devlop in python and commmand on cmd and then change into .exe format
